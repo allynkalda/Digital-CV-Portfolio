@@ -7,7 +7,7 @@ export default function Project1() {
         <div><section>
             <Columns>
             <Columns.Column>
-                <img src="/images/parkshare.png"/>
+                <img src="./images/parkshare.png"/>
             </Columns.Column>
             <Columns.Column>
             <div className="project-box-right">

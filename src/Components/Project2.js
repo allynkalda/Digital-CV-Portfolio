@@ -29,7 +29,7 @@ export default function Project2() {
             </div>
             </Columns.Column>
             <Columns.Column>
-                <img src="/images/360.png"/>
+                <img src="./images/360.png"/>
             </Columns.Column>
             </Columns>
         </section></div>

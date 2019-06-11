@@ -2,6 +2,8 @@
 
 This is my digital CV and portfolio built using React and Bulma.
 
+See it <a href="https://allynkalda.github.io/Digital-CV-Portfolio/">here</a>.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

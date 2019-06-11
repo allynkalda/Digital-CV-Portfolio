@@ -18,7 +18,7 @@ export default class Navibar extends Component {
                 <Navbar color="light" fixed="top" active={this.state.active}>
                 <Navbar.Brand>
                 <Navbar.Item renderAs="a" href="/">
-                <img src="/images/logo-allyn.png" alt="logo" />
+                <img src="./images/logo-allyn.png" alt="logo" />
             </Navbar.Item>
             <Navbar.Burger
               active={this.state.active}
