@@ -1,8 +1,11 @@
+.full-screen {
+    height: 100vh;
+}
 .icon-image {
     padding: 0px 15px 0px 15px;
 }
 .project-title {
-    padding: 40px 0px 70px 0px;
+    padding: 100px 0px 0px 0px;
 }
 .project-box-right {
     padding: 20px 180px 0px 0px;
