@@ -17,7 +17,7 @@ export default class Navibar extends Component {
             <div>
                 <Navbar color="light" fixed="top" active={this.state.active}>
                 <Navbar.Brand>
-                <Navbar.Item renderAs="a" href="/">
+                <Navbar.Item renderAs="a" href="https://allynkalda.github.io/Digital-CV-Portfolio/">
                 <img src="./images/logo-allyn.png" alt="logo" />
             </Navbar.Item>
             <Navbar.Burger
@@ -27,7 +27,7 @@ export default class Navibar extends Component {
             </Navbar.Brand>
             <Navbar.Menu>
             <Navbar.Container>
-              <Navbar.Item href="/">Home</Navbar.Item>
+              <Navbar.Item href="https://allynkalda.github.io/Digital-CV-Portfolio/">Home</Navbar.Item>
               <Navbar.Item><Link to="project-section"
                                 activeClass="active"
                                 spy={true}
