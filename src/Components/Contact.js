@@ -1,9 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Container } from 'react-bulma-components/full';
 import { Heading } from 'react-bulma-components/full';
 
-export default class Contact extends Component {
-    render() {
+export default function Contact() {
         return (
             <div>
                 <Container className="contact-space">
@@ -19,4 +18,3 @@ export default class Contact extends Component {
             </div>
         )
     }
-}

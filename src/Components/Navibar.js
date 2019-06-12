@@ -10,16 +10,22 @@ export default class Navibar extends Component {
     handleClick = () => { 
         const { active } = this.state;
         this.setState({ active: !active }); 
-     }
+    }
+
+     scrollToTop = () => {
+        scroll.scrollToTop(); 
+    };
 
     render() {
         return (
             <div>
                 <Navbar color="light" fixed="top" active={this.state.active}>
                 <Navbar.Brand>
-                <Navbar.Item renderAs="a" href="https://allynkalda.github.io/Digital-CV-Portfolio/">
+                <Navbar.Item>
+                <a href="#" onClick={this.scrollToTop}>
                 <img src="./images/logo-allyn.png" alt="logo" />
-            </Navbar.Item>
+                </a>
+                </Navbar.Item>
             <Navbar.Burger
               active={this.state.active}
               onClick={this.handleClick}
@@ -27,7 +33,7 @@ export default class Navibar extends Component {
             </Navbar.Brand>
             <Navbar.Menu>
             <Navbar.Container>
-              <Navbar.Item href="https://allynkalda.github.io/Digital-CV-Portfolio/">Home</Navbar.Item>
+              <Navbar.Item><a href="#" onClick={this.scrollToTop}>Home</a></Navbar.Item>
               <Navbar.Item><Link to="project-section"
                                 activeClass="active"
                                 spy={true}

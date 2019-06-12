@@ -19,7 +19,6 @@ export default function Project3() {
                     </div>
                     </Tile>
                 </Tile>
-
                 <Tile kind="parent" horizontal>
                     <Tile renderAs="article" kind="child" className="box" >
                     <Heading className="title is-4" size={8} renderAs="p">Kanye Quote Generator</Heading>
