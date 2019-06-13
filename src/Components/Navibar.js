@@ -38,7 +38,7 @@ export default class Navibar extends Component {
                                 activeClass="active"
                                 spy={true}
                                 smooth={true}
-                                offset={-70}
+                                offset={30}
                                 duration= {500}>Projects</Link></Navbar.Item>
               <Navbar.Item><Link to="contact-section"
                                 activeClass="active"

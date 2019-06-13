@@ -1,7 +1,5 @@
 import React from 'react';
-import { Footer } from 'react-bulma-components/full';
-import { Container } from 'react-bulma-components/full';
-import { Content } from 'react-bulma-components/full';
+import { Footer, Container, Content } from 'react-bulma-components/full';
 
 export default function FooterWeb() {
         return (
