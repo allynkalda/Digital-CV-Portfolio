@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f48381e3fbba51be2b1d0a1986cd9886",
+    "revision": "a9f02482ffb4a7834209c1323924334b",
     "url": "/Digital-CV-Portfolio/index.html"
   },
   {
-    "revision": "fd9cbf5381900cae23ee",
+    "revision": "c02b9651261a85f97144",
     "url": "/Digital-CV-Portfolio/static/css/main.bc473554.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Digital-CV-Portfolio/static/js/2.35c77da6.chunk.js"
   },
   {
-    "revision": "fd9cbf5381900cae23ee",
-    "url": "/Digital-CV-Portfolio/static/js/main.7bb4457c.chunk.js"
+    "revision": "c02b9651261a85f97144",
+    "url": "/Digital-CV-Portfolio/static/js/main.b826fa3e.chunk.js"
   },
   {
     "revision": "83b8ffb334b1b4fb1627",
