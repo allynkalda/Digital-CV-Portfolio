@@ -14,7 +14,7 @@ export default function Contact() {
                         </Heading>
                     </p>
                     <div className="button-space">
-                    <a href="./images/allyn-alda-cv.pdf" download><Button color="danger">
+                    <a href="./images/allyn-alda-CV.pdf" download><Button color="danger">
                         Download CV
                     </Button></a>
                     </div>
