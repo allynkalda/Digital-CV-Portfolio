@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Digital-CV-Portfolio/static/css/main.bc473554.chunk.css",
-    "main.js": "/Digital-CV-Portfolio/static/js/main.a97dac87.chunk.js",
-    "main.js.map": "/Digital-CV-Portfolio/static/js/main.a97dac87.chunk.js.map",
+    "main.css": "/Digital-CV-Portfolio/static/css/main.c6d66431.chunk.css",
+    "main.js": "/Digital-CV-Portfolio/static/js/main.fb1f2e1c.chunk.js",
+    "main.js.map": "/Digital-CV-Portfolio/static/js/main.fb1f2e1c.chunk.js.map",
     "runtime~main.js": "/Digital-CV-Portfolio/static/js/runtime~main.477229f1.js",
     "runtime~main.js.map": "/Digital-CV-Portfolio/static/js/runtime~main.477229f1.js.map",
-    "static/js/2.35c77da6.chunk.js": "/Digital-CV-Portfolio/static/js/2.35c77da6.chunk.js",
-    "static/js/2.35c77da6.chunk.js.map": "/Digital-CV-Portfolio/static/js/2.35c77da6.chunk.js.map",
+    "static/js/2.bd66d63b.chunk.js": "/Digital-CV-Portfolio/static/js/2.bd66d63b.chunk.js",
+    "static/js/2.bd66d63b.chunk.js.map": "/Digital-CV-Portfolio/static/js/2.bd66d63b.chunk.js.map",
     "index.html": "/Digital-CV-Portfolio/index.html",
-    "precache-manifest.a809063b3add0193acd3592a37a5a4ff.js": "/Digital-CV-Portfolio/precache-manifest.a809063b3add0193acd3592a37a5a4ff.js",
+    "precache-manifest.614a9be87e67ff43d374bad2419bc95f.js": "/Digital-CV-Portfolio/precache-manifest.614a9be87e67ff43d374bad2419bc95f.js",
     "service-worker.js": "/Digital-CV-Portfolio/service-worker.js",
-    "static/css/main.bc473554.chunk.css.map": "/Digital-CV-Portfolio/static/css/main.bc473554.chunk.css.map"
+    "static/css/main.c6d66431.chunk.css.map": "/Digital-CV-Portfolio/static/css/main.c6d66431.chunk.css.map"
   }
 }
