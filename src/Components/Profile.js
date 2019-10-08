@@ -15,7 +15,7 @@ export default function Profile() {
          </Heading>
         <div>
             <a href="https://www.linkedin.com/in/allyn-alda/"><img className="icon-image" alt="linkedin" src="./images/linkedin.png" /></a>
-            <a href="https://medium.com/@allyn_alda"><img className="icon-image" alt="medium" src="./images/medium.png" /></a>
+            <a href="https://medium.com/@allynak"><img className="icon-image" alt="medium" src="./images/medium.png" /></a>
             <a href="https://github.com/allynkalda"><img className="icon-image" alt="github" src="./images/github.png" /></a>
         </div>
         </Hero.Body>
