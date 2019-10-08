@@ -33,14 +33,17 @@ export default class Navibar extends Component {
             </Navbar.Brand>
             <Navbar.Menu>
             <Navbar.Container>
-              <Navbar.Item><a href="#" onClick={this.scrollToTop}>Home</a></Navbar.Item>
+              <Navbar.Item><a href="#" onClick={this.scrollToTop}
+                                style={{ color: '#363636' }}>Home</a></Navbar.Item>
               <Navbar.Item><Link to="project-section"
+                                style={{ color: '#363636' }}
                                 activeClass="active"
                                 spy={true}
                                 smooth={true}
                                 offset={30}
                                 duration= {500}>Projects</Link></Navbar.Item>
               <Navbar.Item><Link to="contact-section"
+                                style={{ color: '#363636' }}
                                 activeClass="active"
                                 spy={true}
                                 smooth={true}
